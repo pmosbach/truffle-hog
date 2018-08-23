@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:2-alpine
 
 LABEL org.label-schema.vcs-url="https://github.com/pmosbach/truffle-hog"
 
